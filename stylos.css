@@ -55,7 +55,7 @@ a{
 	font-size: 35px;
 	color: white;
 }
-.menu: 
+.menu
 {
 	color: white; 
 	text-decoration: none; 
@@ -74,7 +74,7 @@ section{
 }
 aside
 {
-	width: 410px;
+	width: 450px;
 	height: auto;
 	float: left;
 	border-style: solid;

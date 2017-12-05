@@ -54,10 +54,11 @@ a{
 	font-size: 35px;
 	color: white;
 }
-.menu: link{color: white; text-decoration: none; }
-.menu: visited{color: white; text-decoration: none; } 
-.menu: hover{color: yellow; text-decoration: none background: #e7b200; }
-.menu: active{color: white; text-decoration: none background: #e7b200; }
+menu: link
+{
+	color: white; 
+	text-decoration: none; 
+}
 section{
 	width: 780px;
 	height: auto;
@@ -70,7 +71,8 @@ section{
 	margin-bottom: 10px;
 	margin-top:250px;
 }
-aside{
+aside
+{
 	width: 380px;
 	height: auto;
 	float: left;
@@ -111,7 +113,7 @@ p{
 	position: relative;
 }
 
-#fooder{
+#footer{
 	padding: 30px;
 	font-size: 40px;
 	text-decoration: bold;
